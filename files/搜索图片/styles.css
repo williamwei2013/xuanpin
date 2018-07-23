@@ -470,6 +470,13 @@
   width:43px;
   white-space:nowrap;
 }
+#u117_ann {
+  position:absolute;
+  left:473px;
+  top:483px;
+  width:1px;
+  height:1px;
+}
 #u119_div {
   position:absolute;
   left:0px;
@@ -499,4 +506,11 @@
   top:0px;
   width:43px;
   white-space:nowrap;
+}
+#u119_ann {
+  position:absolute;
+  left:598px;
+  top:483px;
+  width:1px;
+  height:1px;
 }

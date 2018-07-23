@@ -408,22 +408,12 @@
   width:1px;
   height:1px;
 }
-#u33_div {
+#u33_img {
   position:absolute;
   left:0px;
   top:0px;
   width:541px;
   height:386px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
 }
 #u33 {
   position:absolute;
@@ -532,6 +522,13 @@
   width:214px;
   word-wrap:break-word;
 }
+#u40_ann {
+  position:absolute;
+  left:309px;
+  top:166px;
+  width:1px;
+  height:1px;
+}
 #u42_div {
   position:absolute;
   left:0px;
@@ -577,22 +574,12 @@
   width:1px;
   height:1px;
 }
-#u44_div {
+#u44_img {
   position:absolute;
   left:0px;
   top:0px;
   width:541px;
   height:386px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
 }
 #u44 {
   position:absolute;
@@ -805,22 +792,12 @@
   width:1px;
   height:1px;
 }
-#u59_div {
+#u59_img {
   position:absolute;
   left:0px;
   top:0px;
   width:541px;
   height:386px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
 }
 #u59 {
   position:absolute;
@@ -980,22 +957,12 @@
   width:1px;
   height:1px;
 }
-#u70_div {
+#u70_img {
   position:absolute;
   left:0px;
   top:0px;
   width:541px;
   height:386px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
 }
 #u70 {
   position:absolute;
@@ -1162,4 +1129,11 @@
   top:0px;
   width:29px;
   white-space:nowrap;
+}
+#u32_ann {
+  position:absolute;
+  left:864px;
+  top:273px;
+  width:1px;
+  height:1px;
 }
